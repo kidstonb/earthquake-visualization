@@ -10,8 +10,7 @@ Simple overview of use/purpose.
 <p align="justify">
 Using the GeoJSON from The United States Geological Survey (USGS), this javascript creates a visual displaying earthquake depth and magnitude on a world map.
 [...] past 7 days above richter magnitude 4.5 [...] Steps are taken to clean/convert?
-<a href="https://github.com/theidari/wine_quality#references"><b>[1]</b></a><br>
-const url = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson";
+<a href="https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/4.5_week.geojson"><b>[1]</b></a><br>
 
 An in-depth paragraph about your project and overview of use.
 </p>
@@ -48,4 +47,4 @@ Inspiration, code snippets, etc.
 
 <h3>references</h3>
 
-![image](https://github.com/kidstonb/earthquake-visualization/Images/Overview.PNG)
+![image](https://github.com/kidstonb/earthquake-visualization/Images/Overview.PNG?raw=true)
