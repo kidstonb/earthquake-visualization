@@ -50,6 +50,6 @@ Inspiration, code snippets, etc.
 ![image](https://github.com/kidstonb/earthquake-visualization/Images/Overview.PNG?raw=true)
 
 <p align="center">
-  <img src="Images/Overview.PNG" width="350" title="hover text">
-  <img src="Images/CloseUp.PNG" width="350" alt="accessibility text">
+  <img src="Images/Overview.PNG" width="700" title="Overview">
+  <img src="Images/CloseUp.PNG" width="350" alt="CloseUp">
 </p>
