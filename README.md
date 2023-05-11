@@ -48,4 +48,4 @@ Inspiration, code snippets, etc.
 
 <h3>references</h3>
 
-![image](https://github.com/kidstonb/earthquake-visualization/Images/Overview.png)
+![image](https://github.com/kidstonb/earthquake-visualization/Images/Overview.PNG)
