@@ -48,3 +48,8 @@ Inspiration, code snippets, etc.
 <h3>references</h3>
 
 ![image](https://github.com/kidstonb/earthquake-visualization/main/Images/Overview.PNG?raw=true)
+
+<p align="center">
+  <img src="Images/Overview.PNG" width="350" title="hover text">
+  <img src="Images/CloseUp.PNG" width="350" alt="accessibility text">
+</p>
