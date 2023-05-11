@@ -47,4 +47,4 @@ Inspiration, code snippets, etc.
 
 <h3>references</h3>
 
-![image](https://github.com/kidstonb/earthquake-visualization/Images/Overview.PNG?raw=true)
+![image](https://github.com/kidstonb/earthquake-visualization/main/Images/Overview.PNG?raw=true)
